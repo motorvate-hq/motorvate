@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14868" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14824"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CaptureViewController" customModule="Motorvate" customModuleProvider="target">
+            <connections>
+                <outlet property="cutoutView" destination="xUg-ji-28x" id="yFR-nt-Xr0"/>
+                <outlet property="resultLabel" destination="nbt-nk-uk1" id="0bS-SN-ula"/>
+                <outlet property="videoPreviewView" destination="dyM-LB-ycO" id="VQ4-rx-fJl"/>
+                <outlet property="view" destination="h7a-ES-Vme" id="l6O-jt-q2V"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="h7a-ES-Vme">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dyM-LB-ycO" customClass="VideoPreviewView" customModule="Motorvate" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xUg-ji-28x" userLabel="Cutout view">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                </view>
+                <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1GNDT13W3W2249640" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nbt-nk-uk1" userLabel="ResultLabel">
+                    <rect key="frame" x="44.5" y="206" width="325.5" height="34"/>
+                    <fontDescription key="fontDescription" name="Arial-BoldMT" family="Arial" pointSize="30"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+            <constraints>
+                <constraint firstItem="dyM-LB-ycO" firstAttribute="centerY" secondItem="h7a-ES-Vme" secondAttribute="centerY" id="9XB-L7-Emm"/>
+                <constraint firstItem="xUg-ji-28x" firstAttribute="centerX" secondItem="h7a-ES-Vme" secondAttribute="centerX" id="C0e-Gf-jrF"/>
+                <constraint firstItem="nbt-nk-uk1" firstAttribute="centerX" secondItem="h7a-ES-Vme" secondAttribute="centerX" id="MMj-ZF-ta6"/>
+                <constraint firstItem="dyM-LB-ycO" firstAttribute="bottom" secondItem="h7a-ES-Vme" secondAttribute="bottom" id="S33-A7-xrJ"/>
+                <constraint firstItem="xUg-ji-28x" firstAttribute="bottom" secondItem="h7a-ES-Vme" secondAttribute="bottom" id="WoZ-gF-Bpk"/>
+                <constraint firstItem="nbt-nk-uk1" firstAttribute="top" secondItem="h7a-ES-Vme" secondAttribute="top" constant="206" id="Yoh-y9-OYv"/>
+                <constraint firstAttribute="trailing" secondItem="xUg-ji-28x" secondAttribute="trailing" id="aGz-Ld-S4h"/>
+                <constraint firstItem="xUg-ji-28x" firstAttribute="centerY" secondItem="h7a-ES-Vme" secondAttribute="centerY" id="jOd-Sc-7H1"/>
+                <constraint firstAttribute="trailing" secondItem="dyM-LB-ycO" secondAttribute="trailing" id="mnf-Qp-QCU"/>
+                <constraint firstItem="dyM-LB-ycO" firstAttribute="centerX" secondItem="h7a-ES-Vme" secondAttribute="centerX" id="qg2-K4-wPp"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="zBD-uQ-Xfm"/>
+            <point key="canvasLocation" x="333" y="708"/>
+        </view>
+    </objects>
+</document>
