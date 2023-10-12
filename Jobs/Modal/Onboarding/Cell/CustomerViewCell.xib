@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097.3" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Archivo-Regular.ttf">
+            <string>Archivo-Regular</string>
+        </array>
+        <array key="Archivo-SemiBold.ttf">
+            <string>Archivo-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CustomerViewCell" customModule="Motorvate" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="276" height="121"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="aYn-cJ-Cyp">
+                    <rect key="frame" x="15" y="10" width="246" height="101"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" translatesAutoresizingMaskIntoConstraints="NO" id="Cfg-dW-mRR">
+                            <rect key="frame" x="0.0" y="0.0" width="246" height="66.5"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" text="sadfkjnajdnl" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="J4a-fC-ari" userLabel="fullNameLabel">
+                                    <rect key="frame" x="0.0" y="0.0" width="246" height="17.5"/>
+                                    <fontDescription key="fontDescription" name="Archivo-SemiBold" family="Archivo" pointSize="15"/>
+                                    <color key="textColor" name="componentText"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=";djnlkand" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xfx-gU-SMP" userLabel="phoneNumberLabel">
+                                    <rect key="frame" x="0.0" y="24.5" width="246" height="17.5"/>
+                                    <fontDescription key="fontDescription" name="Archivo-SemiBold" family="Archivo" pointSize="15"/>
+                                    <color key="textColor" name="componentText"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="kljafbglkjanjdfng" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jgW-oh-wsh" userLabel="vehicleDescriptionLabel">
+                                    <rect key="frame" x="0.0" y="49" width="246" height="17.5"/>
+                                    <fontDescription key="fontDescription" name="Archivo-SemiBold" family="Archivo" pointSize="15"/>
+                                    <color key="textColor" name="componentText"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                        </stackView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="lkjdvlkjznbkcjvzncvnajnlkjasndfljsndnf" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="M2d-pD-CCZ" userLabel="notesLabel">
+                            <rect key="frame" x="0.0" y="76.5" width="246" height="24.5"/>
+                            <fontDescription key="fontDescription" name="Archivo-Regular" family="Archivo" pointSize="15"/>
+                            <color key="textColor" name="componentText"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="aYn-cJ-Cyp" secondAttribute="bottom" constant="10" id="4w5-Ya-pXD"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="aYn-cJ-Cyp" secondAttribute="trailing" constant="15" id="WZp-gy-2ZP"/>
+                <constraint firstItem="aYn-cJ-Cyp" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="10" id="gCA-yB-2Bh"/>
+                <constraint firstItem="aYn-cJ-Cyp" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="15" id="mPr-bG-kXI"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="descriptionLabel" destination="jgW-oh-wsh" id="dv4-bE-Cfm"/>
+                <outlet property="fullNameLabel" destination="J4a-fC-ari" id="sSd-VG-dhL"/>
+                <outlet property="noteLabel" destination="M2d-pD-CCZ" id="t3e-hE-OmD"/>
+                <outlet property="phoneNumberLabel" destination="Xfx-gU-SMP" id="QYx-5m-B80"/>
+            </connections>
+            <point key="canvasLocation" x="414.39999999999998" y="-117.39130434782609"/>
+        </view>
+    </objects>
+    <resources>
+        <namedColor name="componentText">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </namedColor>
+    </resources>
+</document>
