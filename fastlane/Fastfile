@@ -1,0 +1,44 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+
+  desc "Force renew provision profile"
+  lane :renew_provision_profile do
+     match(type: 'development', readonly: true)
+  end
+
+  desc "Login into firbase app distribution"
+  lane :firebase_login do
+    firebase_app_distribution_login
+  end
+
+  desc "Build and upload for internal testing"
+  lane :distribute_qa_build do
+    build_app(
+      scheme: "Motorvate-dev",
+      export_options: {
+        method: "development"
+      }
+    )
+
+    firebase_app_distribution(
+      app: "1:888287283708:ios:750f4e0394f700b4c28a79",
+      service_credentials_file: "api_project_credentials.json",
+      testers: "support@motorvate.io, emmanuelaattoh@gmail.com, nickinade@gmail.com",
+      release_notes: "Testing changes in QA"
+    )
+  end
+
+  # Private
+end

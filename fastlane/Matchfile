@@ -1,0 +1,4 @@
+git_url "git@github.com:Motorvate/certificates.git"
+
+app_identifier ["com.motorvate.ios", "com.motorvate.ios.dev"]
+username "developer.ios@motorvate.me"
