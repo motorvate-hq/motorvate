@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <viewController storyboardIdentifier="ListingAddChildContainerViewController" modalPresentationStyle="overFullScreen" id="J9Q-0p-K64" customClass="SlideUpViewController" customModule="Motorvate" customModuleProvider="target">
+            <view key="view" opaque="NO" contentMode="scaleToFill" id="wuR-et-x2E">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                <subviews>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eco-u7-rQT">
+                        <rect key="frame" x="0.0" y="48" width="414" height="848"/>
+                        <connections>
+                            <action selector="actionHide:" destination="J9Q-0p-K64" eventType="touchDown" id="eBK-Lk-X96"/>
+                        </connections>
+                    </button>
+                    <containerView clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fwz-J8-HD2">
+                        <rect key="frame" x="0.0" y="486" width="414" height="420"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="420" id="Vtt-de-O6e"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </containerView>
+                </subviews>
+                <viewLayoutGuide key="safeArea" id="zhh-2b-8jc"/>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="fwz-J8-HD2" secondAttribute="bottom" constant="-10" id="2br-xr-U1H"/>
+                    <constraint firstAttribute="trailing" secondItem="fwz-J8-HD2" secondAttribute="trailing" id="Lf4-Uk-w4T"/>
+                    <constraint firstItem="eco-u7-rQT" firstAttribute="width" secondItem="wuR-et-x2E" secondAttribute="width" id="cTE-ze-Hqf"/>
+                    <constraint firstItem="fwz-J8-HD2" firstAttribute="leading" secondItem="wuR-et-x2E" secondAttribute="leading" id="lzF-07-vJc"/>
+                    <constraint firstItem="eco-u7-rQT" firstAttribute="centerX" secondItem="zhh-2b-8jc" secondAttribute="centerX" id="nUr-b2-MRL"/>
+                    <constraint firstAttribute="bottom" secondItem="eco-u7-rQT" secondAttribute="bottom" id="xAm-NE-2fX"/>
+                    <constraint firstItem="eco-u7-rQT" firstAttribute="top" secondItem="zhh-2b-8jc" secondAttribute="top" id="xjq-xo-gZm"/>
+                </constraints>
+            </view>
+            <connections>
+                <outlet property="containerBottomConstraint" destination="2br-xr-U1H" id="rqS-gQ-NNI"/>
+                <outlet property="containerHeightConstraint" destination="Vtt-de-O6e" id="xes-bo-kyc"/>
+                <outlet property="containerLeadingConstraint" destination="lzF-07-vJc" id="SnD-Kg-BXz"/>
+                <outlet property="containerTrailingConstraint" destination="Lf4-Uk-w4T" id="6pB-8c-0c0"/>
+                <outlet property="containerView" destination="fwz-J8-HD2" id="JgT-uc-Asz"/>
+            </connections>
+            <point key="canvasLocation" x="838" y="2411"/>
+        </viewController>
+    </objects>
+</document>
