@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C4CEDD1A-767E-46C4-9672-D738701D8E55"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7057E5C6-89FE-4C00-B84A-0DCE6F726812"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Shared/EmptyData/EmptyDataPlaceholderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "getNavigationActionType(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD14D93B-EE1B-4E44-A527-B654F4AA560E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Shared/EmptyData/EmptyDataPlaceholderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "textView(_:shouldInteractWith:in:interaction:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD14D93B-EE1B-4E44-A527-B654F4AA560E - dd0d46aec3819402"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Motorvate.EmptyDataPlaceholderView.textView(_: __C.UITextView, shouldInteractWith: Foundation.URL, in: __C._NSRange, interaction: __C.UITextItemInteraction) -&gt; Swift.Bool"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/Shared/EmptyData/EmptyDataPlaceholderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "226">
+               </Location>
+               <Location
+                  uuid = "FD14D93B-EE1B-4E44-A527-B654F4AA560E - dd0d46aec3819402"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Motorvate.EmptyDataPlaceholderView.textView(_: __C.UITextView, shouldInteractWith: Foundation.URL, in: __C._NSRange, interaction: __C.UITextItemInteraction) -&gt; Swift.Bool"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/Shared/EmptyData/EmptyDataPlaceholderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "444">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "711F7E30-7125-440C-9242-174A80860250"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Views/OCTTextView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "onTapAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7799A110-0F0A-493B-8639-D96979258172"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/AllCustomers/Cell/CustomerJobCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "didPressSendMessage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BA3CEB2-F074-4106-ACDA-337FB8A264F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Jobs/Cell/JobCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "didPressSendMessage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9549CE1B-AC1B-47E6-91AE-91595F48B6D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/AllCustomers/View/CustomerJobDetailsTotalView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "feeLabel"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89333E10-2F4E-42DC-9CE2-852D17B08726"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Communication/ChatView/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "presentJobDetails(depositFeeType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C93778F-775D-4B25-9129-C1E42C8B90F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Communication/ChatView/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "390"
+            endingLineNumber = "390"
+            landmarkName = "sendLink(serviceType:type:fee:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBE7F010-5359-434C-A6DC-921F9A70D053"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Communication/ChatView/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "383"
+            endingLineNumber = "383"
+            landmarkName = "handleEditDetails(serviceType:type:fee:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F762D422-DC71-4CA5-9F95-4AD3CF1D61E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Popups/Controllers/DepositEstimatePopupController/DepositEstimatePopupController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "setView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5CD2F16-B559-4C69-B495-DBCF4FD11513"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Popups/Controllers/DepositEstimatePopupController/Models/DepositEstimatePopupViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "handleGetPreviewLink(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "517374E0-F816-4147-9DA2-34539ABEA454"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/ServiceDetails/Models/JobDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "handleGetPreviewLink(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "517374E0-F816-4147-9DA2-34539ABEA454 - a7787ec04b6cc367"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Motorvate.JobDetailsViewModel.handleGetPreviewLink(completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/ServiceDetails/Models/JobDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "517374E0-F816-4147-9DA2-34539ABEA454 - a7787ec04b6cc367"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Motorvate.JobDetailsViewModel.handleGetPreviewLink(completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/ServiceDetails/Models/JobDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49FFA288-C208-4E21-BACB-7AF27CAA1A7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/ServiceDetails/ServiceDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "setPaymentDetailsSection()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0754527-210D-4386-8BC2-D2CB1610B0C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/ServiceDetails/ServiceDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "previewLinkHandler()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44D62C17-B26E-46BA-9BBB-142BCF759086"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Popups/Controllers/DepositEstimatePopupController/Models/DepositEstimatePopupViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "handleGetInquiryPreviewLink(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FA77655-8096-47CE-B34A-475D78823A07"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Popups/Controllers/DepositEstimatePopupController/Models/DepositEstimatePopupViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "init(job:chatHistory:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "297E3C3F-EC34-43C2-AA41-DF2D49E547DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Popups/Controllers/DepositEstimatePopupController/Models/DepositEstimatePopupViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "init(serviceDetails:excludingDeposit:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1695EB3-597A-4CDC-A386-AB2B3093104A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/ServiceDetails/Models/JobDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "addUpdateService(item:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1695EB3-597A-4CDC-A386-AB2B3093104A - c924a4db66b1d683"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Motorvate.Job, Motorvate.NetworkResponse&gt;) -&gt; () in Motorvate.JobDetailsViewModel.addUpdateService(item: Motorvate.ServiceDetail, completion: (Swift.Result&lt;Swift.Array&lt;Motorvate.ServiceDetail&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/ServiceDetails/Models/JobDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "F1695EB3-597A-4CDC-A386-AB2B3093104A - c924a4db66b1d683"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Motorvate.Job, Motorvate.NetworkResponse&gt;) -&gt; () in Motorvate.JobDetailsViewModel.addUpdateService(item: Motorvate.ServiceDetail, completion: (Swift.Result&lt;Swift.Array&lt;Motorvate.ServiceDetail&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/ServiceDetails/Models/JobDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "579">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F72F0CFF-339F-4BF9-A2AB-58B96CC0F047"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/ServiceDetails/Models/JobDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "deleteService(item:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F72F0CFF-339F-4BF9-A2AB-58B96CC0F047 - f44a52f29fc86214"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Motorvate.Job, Motorvate.NetworkResponse&gt;) -&gt; () in Motorvate.JobDetailsViewModel.deleteService(item: Motorvate.ServiceDetail, completion: (Swift.Result&lt;Swift.Array&lt;Motorvate.ServiceDetail&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/ServiceDetails/Models/JobDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "579">
+               </Location>
+               <Location
+                  uuid = "F72F0CFF-339F-4BF9-A2AB-58B96CC0F047 - f44a52f29fc86214"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Motorvate.Job, Motorvate.NetworkResponse&gt;) -&gt; () in Motorvate.JobDetailsViewModel.deleteService(item: Motorvate.ServiceDetail, completion: (Swift.Result&lt;Swift.Array&lt;Motorvate.ServiceDetail&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/ServiceDetails/Models/JobDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "618">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10777200-4B63-4A48-814A-12CA9030153F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/ServiceDetails/Models/InquiryDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "addUpdateService(item:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "10777200-4B63-4A48-814A-12CA9030153F - 1ee311d3e171e825"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Motorvate.Inquiry, Motorvate.NetworkResponse&gt;) -&gt; () in Motorvate.InquiryDetailsViewModel.addUpdateService(item: Motorvate.ServiceDetail, completion: (Swift.Result&lt;Swift.Array&lt;Motorvate.ServiceDetail&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/ServiceDetails/Models/InquiryDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "547">
+               </Location>
+               <Location
+                  uuid = "10777200-4B63-4A48-814A-12CA9030153F - 1ee311d3e171e825"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Motorvate.Inquiry, Motorvate.NetworkResponse&gt;) -&gt; () in Motorvate.InquiryDetailsViewModel.addUpdateService(item: Motorvate.ServiceDetail, completion: (Swift.Result&lt;Swift.Array&lt;Motorvate.ServiceDetail&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/ServiceDetails/Models/InquiryDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "659">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08707F78-A87A-4241-AD40-38C4ADB8EAD4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/ServiceDetails/Models/InquiryDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "deleteService(item:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08707F78-A87A-4241-AD40-38C4ADB8EAD4 - b0236dff0b728977"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Motorvate.Inquiry, Motorvate.NetworkResponse&gt;) -&gt; () in Motorvate.InquiryDetailsViewModel.deleteService(item: Motorvate.ServiceDetail, completion: (Swift.Result&lt;Swift.Array&lt;Motorvate.ServiceDetail&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/ServiceDetails/Models/InquiryDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "586">
+               </Location>
+               <Location
+                  uuid = "08707F78-A87A-4241-AD40-38C4ADB8EAD4 - b0236dff0b728977"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Motorvate.Inquiry, Motorvate.NetworkResponse&gt;) -&gt; () in Motorvate.InquiryDetailsViewModel.deleteService(item: Motorvate.ServiceDetail, completion: (Swift.Result&lt;Swift.Array&lt;Motorvate.ServiceDetail&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/ServiceDetails/Models/InquiryDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "698">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "231A5CA3-5087-4E80-801E-6A8FB77F4422"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/ServiceDetails/ServiceDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "updateTableData(serviceDetails:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9486EE67-8D47-47A6-9BDC-D5685B7BAD3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Jobs/Modal/Onboarding/Modules/ServiceInformationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "setServiceDetails(serviceDetails:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9486EE67-8D47-47A6-9BDC-D5685B7BAD3F - 93747b1498f274f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Motorvate.ServiceInformationView.setServiceDetails(serviceDetails: Swift.Optional&lt;Swift.Array&lt;Motorvate.ServiceDetail&gt;&gt;) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/Jobs/Modal/Onboarding/Modules/ServiceInformationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  uuid = "9486EE67-8D47-47A6-9BDC-D5685B7BAD3F - e0aa6c8ae8da9bfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Motorvate.ServiceDetail) -&gt; Swift.String in Motorvate.ServiceInformationView.setServiceDetails(serviceDetails: Swift.Optional&lt;Swift.Array&lt;Motorvate.ServiceDetail&gt;&gt;) -&gt; ()"
+                  moduleName = "Motorvate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Workspace/Motorvate/iOS/Motorvate/Jobs/Modal/Onboarding/Modules/ServiceInformationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "131">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "580D26F7-4DEA-4C99-9DE3-6E07AD760D25"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Popups/Controllers/DepositEstimatePopupController/Models/DepositEstimatePopupViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "handleGetInquiryPreviewLink(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D155758A-49BD-459E-88B8-3E780CA5FBF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Popups/Controllers/DepositEstimatePopupController/Models/DepositEstimatePopupViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "handleGetInquiryPreviewLink(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02609108-07E6-44BB-9225-D8BBFA089785"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Networking/APIServices/JobService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "297"
+            endingLineNumber = "297"
+            landmarkName = "handleResponse(_:_:_:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A60ACE0-BA52-4891-BA17-6F7630635BB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/Jobs/Modal/Onboarding/ViewModel/OnboardViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "getAllInquiries(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88513F2B-B32A-4654-9CA9-FA5798F1CF31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Motorvate/InquiryList/InquiryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getAllInquiriesForShop(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
